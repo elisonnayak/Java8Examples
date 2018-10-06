@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'CodingExamples'
+rootProject.name = 'Java8Examples'

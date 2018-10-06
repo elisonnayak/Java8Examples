@@ -1,2 +1,8 @@
-/.metadata/
-/Servers/
+/.project
+/.classpath
+/.gradle/
+/bin/
+/gradle/
+/.settings/
+gradlew
+gradlew.bat
