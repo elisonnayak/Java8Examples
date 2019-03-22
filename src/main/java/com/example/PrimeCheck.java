@@ -1,4 +1,4 @@
-package com.example.prime;
+package com.example;
 
 import java.util.Scanner;
 
@@ -30,9 +30,9 @@ public class PrimeCheck {
 		return true;
 	}
 
-	private static Object isPrimeOrNot(int number) {
+	public static boolean isPrimeOrNot(int number) {
 		// TODO Auto-generated method stub
-		return null;
+		return true;
 	}
 
 	private static Object isPrimeNumber(int number) {
