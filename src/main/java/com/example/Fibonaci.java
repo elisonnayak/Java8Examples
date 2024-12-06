@@ -10,7 +10,7 @@ public class Fibonaci {
 		
 		System.out.println("Fibonacci series upto " + number +" numbers : ");
 		for(int i=1;i<=number;i++) {
-			System.out.println(fibonacciItetation(i));
+			System.out.println(fibonacciRecursion(i));
 		}
 	}
 
